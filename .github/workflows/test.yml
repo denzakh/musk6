@@ -35,8 +35,9 @@ jobs:
         with:
           auth: ${{ secrets.GIST_SECRET }}
           gistID: 907b076a3abdcea7767a3cc60095979f
-          filename: cov.json
-          label: Test Coverage
-          message: ${{ env.COVERAGE }}
+          filename: coverage-master.json
+          label: Coverage
+          message: ${{ steps.coverage.outputs.value }}
           color: green
-          namedLogo: jest
+          namedLogo: vitest
+          forceUpdate: true
