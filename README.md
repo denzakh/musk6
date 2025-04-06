@@ -6,7 +6,7 @@ Tecnologías: React + TypeScript + Vite
 
 Linters: ESLint (Reglas recomendadas de React) + Prettier
 
-Tests coverage ![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/denzakh/63329b09d367d3ea726321554f3aaea0/raw/coverage-master.json)
+Tests coverage ![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/denzakh/907b076a3abdcea7767a3cc60095979f/raw/coverage-master.json)
 
 GitHub https://github.com/denzakh/musk6
 
