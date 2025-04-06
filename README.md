@@ -41,7 +41,7 @@ Abrir en el navegador http://localhost:5173/
 ## Las instrucciones para desplegar
 
 Cumplimiento de pasos: Se deben seguir los pasos necesarios para desplegar correctamente
-en la plataforma elegida (Vercel).
+en la plataforma Vercel.
 
 1. Vaya a Versel y cree un nuevo proyecto
 
