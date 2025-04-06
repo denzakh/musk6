@@ -1,12 +1,14 @@
 # Musk: Proyecto Módulo 6
 
-Despliegue de una Aplicación Web en Vercel
-
-Proyecto educativo sobre UX/UI. Usando el ejemplo de una tienda de recuerdos con temática de Star Wars
+Proyecto educativo. Usando el ejemplo de una tienda de recuerdos con temática de Star Wars
 
 Tecnologías: React + TypeScript + Vite
 
 Linters: ESLint (Reglas recomendadas de React) + Prettier
+
+GitHub https://github.com/denzakh/musk6
+
+Publicado en Versel
 
 ![](https://skrinshoter.ru/s/060425/bloogM0r.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-06-04-2025%2015:15:26.jpg)
 
