@@ -37,3 +37,20 @@ npm run dev
 ```
 
 Abrir en el navegador http://localhost:5173/
+
+## Las instrucciones para desplegar
+
+Cumplimiento de pasos: Se deben seguir los pasos necesarios para desplegar correctamente
+en la plataforma elegida (Vercel).
+
+1. Vaya a Versel y cree un nuevo proyecto
+
+![](https://skrinshoter.ru/s/060425/PTBKS6hE.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-06-04-2025%2016:49:26.jpg)
+
+2. Importar repositorio
+
+![](https://skrinshoter.ru/s/060425/qjF2qmlq.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-06-04-2025%2016:50:41.jpg)
+
+3. Instalar el ajuste preestablecido de implementación para Vite
+
+![](https://skrinshoter.ru/s/060425/r2VLuOOR.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-06-04-2025%2016:53:19.jpg)
