@@ -27,11 +27,14 @@ jobs:
         # Only works if you set `reportOnFailure: true` in your vite config as specified above
         if: always()
         uses: davelosert/vitest-coverage-report-action@v2
+      - name: Get coverage output
+        id: coverage
+        run: echo "value=$(jq -r '.total.lines.pct|tostring + "%"' coverage/coverage-summary.json)" >> $GITHUB_OUTPUT
       - name: Create Lines-of-Code-Badge
         uses: schneegans/dynamic-badges-action@v1.3.0
         with:
           auth: ${{ secrets.GIST_SECRET }}
-          gistID: 63329b09d367d3ea726321554f3aaea0
+          gistID: 907b076a3abdcea7767a3cc60095979f
           filename: cov.json
           label: Test Coverage
           message: ${{ env.COVERAGE }}
