@@ -1,0 +1,472 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Header > Si no hay productos, no se muestra el número de productos en el carrito. 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="bg-cover bg-no-repeat bg-[#2a59bd]"
+      >
+        <div
+          class="backdrop-brightness-70 md:backdrop-brightness-100"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="flex items-center text-white min-h-[45vw] lg:min-h-[380px] pl-2 md:pl-0"
+            >
+              <div
+                class="flex flex-col gap-2 md:items-center pt-4 "
+              >
+                <div
+                  class="text-3xl md:text-5xl font-header font-bold drop-shadow-lg pl-2 md:pl-0"
+                >
+                  Star Jedi
+                </div>
+                <div
+                  class="drop-shadow-sm"
+                >
+                  tienda de productos 
+                  <br
+                    class="md:hidden"
+                  />
+                  exclusivos
+                </div>
+              </div>
+              <div
+                class="grow"
+              />
+              <div
+                class=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="bg-[rgba(0,0,0,0.5)]"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="min-h-[80px] p-4 lg:flex justify-center items-center gap-x-10 hidden"
+              >
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Inicio
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Libros
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Películas
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Cómics
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Juguetes
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300"
+                  data-discover="true"
+                  href="/"
+                >
+                  Otros
+                </a>
+                <a
+                  class="text-white text-2xl hover:text-cyan-300 flex items-center gap-4"
+                  data-discover="true"
+                  href="/cart"
+                >
+                  <div>
+                    Carrito de compras
+                  </div>
+                </a>
+              </div>
+              <div
+                class="flex justify-between items-center lg:hidden"
+              >
+                <details
+                  class="dropdown"
+                >
+                  <summary
+                    class="btn m-1"
+                  >
+                    Menu
+                  </summary>
+                  <ul
+                    class="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm"
+                  >
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Inicio
+                      </a>
+                    </li>
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Libros
+                      </a>
+                    </li>
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Películas
+                      </a>
+                    </li>
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Cómics
+                      </a>
+                    </li>
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Juguetes
+                      </a>
+                    </li>
+                    <li
+                      class="mt-2"
+                    >
+                      <a
+                        class=""
+                        data-discover="true"
+                        href="/"
+                      >
+                        Otros
+                      </a>
+                    </li>
+                  </ul>
+                </details>
+                <div>
+                  <a
+                    class="text-white text-xl hover:text-cyan-300 flex items-center"
+                    data-discover="true"
+                    data-testid="cartBtn"
+                    href="/cart"
+                  >
+                    <div
+                      class="pr-2"
+                    >
+                      Carrito
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="bg-cover bg-no-repeat bg-[#2a59bd]"
+    >
+      <div
+        class="backdrop-brightness-70 md:backdrop-brightness-100"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="flex items-center text-white min-h-[45vw] lg:min-h-[380px] pl-2 md:pl-0"
+          >
+            <div
+              class="flex flex-col gap-2 md:items-center pt-4 "
+            >
+              <div
+                class="text-3xl md:text-5xl font-header font-bold drop-shadow-lg pl-2 md:pl-0"
+              >
+                Star Jedi
+              </div>
+              <div
+                class="drop-shadow-sm"
+              >
+                tienda de productos 
+                <br
+                  class="md:hidden"
+                />
+                exclusivos
+              </div>
+            </div>
+            <div
+              class="grow"
+            />
+            <div
+              class=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="bg-[rgba(0,0,0,0.5)]"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class=""
+          >
+            <div
+              class="min-h-[80px] p-4 lg:flex justify-center items-center gap-x-10 hidden"
+            >
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Inicio
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Libros
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Películas
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Cómics
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Juguetes
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300"
+                data-discover="true"
+                href="/"
+              >
+                Otros
+              </a>
+              <a
+                class="text-white text-2xl hover:text-cyan-300 flex items-center gap-4"
+                data-discover="true"
+                href="/cart"
+              >
+                <div>
+                  Carrito de compras
+                </div>
+              </a>
+            </div>
+            <div
+              class="flex justify-between items-center lg:hidden"
+            >
+              <details
+                class="dropdown"
+              >
+                <summary
+                  class="btn m-1"
+                >
+                  Menu
+                </summary>
+                <ul
+                  class="menu dropdown-content bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm"
+                >
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Inicio
+                    </a>
+                  </li>
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Libros
+                    </a>
+                  </li>
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Películas
+                    </a>
+                  </li>
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Cómics
+                    </a>
+                  </li>
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Juguetes
+                    </a>
+                  </li>
+                  <li
+                    class="mt-2"
+                  >
+                    <a
+                      class=""
+                      data-discover="true"
+                      href="/"
+                    >
+                      Otros
+                    </a>
+                  </li>
+                </ul>
+              </details>
+              <div>
+                <a
+                  class="text-white text-xl hover:text-cyan-300 flex items-center"
+                  data-discover="true"
+                  data-testid="cartBtn"
+                  href="/cart"
+                >
+                  <div
+                    class="pr-2"
+                  >
+                    Carrito
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
